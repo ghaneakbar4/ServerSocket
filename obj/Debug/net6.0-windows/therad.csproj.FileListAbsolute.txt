@@ -1,0 +1,17 @@
+D:\projects\IDPServer\therad\therad\bin\Debug\net6.0-windows\therad.exe
+D:\projects\IDPServer\therad\therad\bin\Debug\net6.0-windows\therad.deps.json
+D:\projects\IDPServer\therad\therad\bin\Debug\net6.0-windows\therad.runtimeconfig.json
+D:\projects\IDPServer\therad\therad\bin\Debug\net6.0-windows\therad.dll
+D:\projects\IDPServer\therad\therad\bin\Debug\net6.0-windows\therad.pdb
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.AssemblyInfoInputs.cache
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.AssemblyInfo.cs
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.csproj.CoreCompileInputs.cache
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.dll
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\refint\therad.dll
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.pdb
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.genruntimeconfig.cache
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\ref\therad.dll
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.Form1.resources
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.csproj.GenerateResource.cache
+D:\projects\IDPServer\therad\therad\obj\Debug\net6.0-windows\therad.ServerForm.resources
